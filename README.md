@@ -20,7 +20,7 @@
 
 - [My posh profile](./WindowsPowerShell/Microsoft.PowerShell_profile.ps1) on Documents/WindowsPowerShell/
 
-## 3.Import the emojis
+### 3.Import the emojis
 
 ```bash
 Import-PSEmojiUnicodeJson -Path <path to the repo>/EmojiUnicode.json
