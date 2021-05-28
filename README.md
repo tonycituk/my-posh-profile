@@ -4,7 +4,9 @@
 </a>
 
 <p align="center">
-    <img align="center" src="media\posh.gif" height="270" />
+    <kbd>
+        <img align="center" src="media\posh.gif" height="270" />
+    </kbd>
 </p>
 
 ### 1.Install
