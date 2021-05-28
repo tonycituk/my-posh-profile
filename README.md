@@ -16,7 +16,7 @@
 
 ### 2.Place/Replace
 
-- [My posh profile](WindowsPowerShell\Microsoft.PowerShell_profile.ps1) on Documents/WindowsPowerShell/
+- [My posh profile](./WindowsPowerShell/Microsoft.PowerShell_profile.ps1) on Documents/WindowsPowerShell/
 
 ## 3.Import the emojis
 
